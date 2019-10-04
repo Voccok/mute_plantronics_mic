@@ -2,9 +2,9 @@
 
 Pre-requisites:
 
-  - Plantronics headset
-  - Plantronics program must be running in the system tray.
-  - The microphone must be in use, eg. you must be in conference call.
+  -   Plantronics headset
+  -   Plantronics program must be running in the system tray.
+  -   The microphone must be in use, eg. you must be in conference call.
 
 Ctrl-Alt-M toggles mute
 
